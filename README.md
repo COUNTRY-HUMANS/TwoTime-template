@@ -85,4 +85,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=40&duration=1&pause=1000&color=868C90&center=true&vCenter=true&repeat=false&width=625&lines=Moonlit+eyes+and+a+heart+of+nightshade" alt="Typing SVG" /></a>
 <img src="https://64.media.tumblr.com/c6d657c80e89f05a15dfd4fa8c4ff638/ba93378786db679e-05/s2048x3072/8d3525d427941175b70c77b51ce395b8bd5445ff.pnj"> <img src="https://64.media.tumblr.com/1ea8c721130cb9a6cf7c245645bbb9d7/9912e86be0a4702f-ac/s2048x3072/d61bf498d818ad21323549bd357dcef98d39a412.pnj">
 
+<sub>Template by [Eveleen](https://github.com/COUNTRY-HUMANS) <br>
+Credits ~ ⠀[꥟](https://www.tumblr.com/hymnis/780260918241230848/ok-so-i-have-brainrot-and-im-remaking-my)⠀ [꥟](https://www.tumblr.com/icyporcelain/788258663031865344/assorted-spawn-graphics-all-made-by) ⠀[꥟](https://www.tumblr.com/omi-resources/771363092112310272/snowy-diamond-flakes)⠀ [꥟](
+https://www.tumblr.com/olenvasynyt/779642542489845760/getting-the-colors-for-these-to-look-good-with-all) ⠀[꥟](https://www.tumblr.com/caramellpurin/785891343510716417/id-two-time-tumblr-layout-end-id)
 </div>
