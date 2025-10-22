@@ -82,7 +82,7 @@
 ---
   <img src="https://i.ibb.co/FLFLjnSM/tumblr-ff2155672ee0b000d2287ee3f87e182e-bb3d6ff3-100.png" width="150" height="150"> <img src="https://i.ibb.co/9m70yFbk/tumblr-b4d88f1eecacdd07c3a2346f7b509991-03324da4-100.png" width="150" height="150"> <img src="https://i.ibb.co/39ZgpCwB/tumblr-886a01abdee6f6cff3966d0389754fde-6c5d62f9-100.png" width="150" height="150">
 
-<img src="https://64.media.tumblr.com/9dbc749113b4590c61e614f7a8497a8a/ba93378786db679e-d7/s75x75_c1/de390ea33a7f7c0af5284da7ca1ed3f87dce20fb.gifv"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=40&duration=1&pause=1000&color=868C90&center=true&vCenter=true&repeat=false&width=625&lines=Moonlit+eyes+and+a+heart+of+nightshade" alt="Typing SVG" /></a> <img src="https://64.media.tumblr.com/9dbc749113b4590c61e614f7a8497a8a/ba93378786db679e-d7/s75x75_c1/de390ea33a7f7c0af5284da7ca1ed3f87dce20fb.gifv"> 
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=40&duration=1&pause=1000&color=868C90&center=true&vCenter=true&repeat=false&width=625&lines=Moonlit+eyes+and+a+heart+of+nightshade" alt="Typing SVG" /></a>
 <img src="https://64.media.tumblr.com/c6d657c80e89f05a15dfd4fa8c4ff638/ba93378786db679e-05/s2048x3072/8d3525d427941175b70c77b51ce395b8bd5445ff.pnj"> <img src="https://64.media.tumblr.com/1ea8c721130cb9a6cf7c245645bbb9d7/9912e86be0a4702f-ac/s2048x3072/d61bf498d818ad21323549bd357dcef98d39a412.pnj"> 
 
 <sub>Template by [Eveleen](https://github.com/COUNTRY-HUMANS) <br>
